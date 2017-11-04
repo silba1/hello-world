@@ -1,2 +1,3 @@
 # hello-world
-prvi git do hraja
+#prvi git do hraja
+#eto na novog koda
